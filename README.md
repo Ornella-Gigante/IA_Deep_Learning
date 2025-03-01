@@ -62,6 +62,3 @@ This project is open-sourced under the [MIT License](LICENSE). You are free to u
 
 Let's tackle real-world problems with the power of deep learning! 🎉
 
-![Deep Learning](https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Artificial_neural_network.svg/1200px-Artificial_neural_network.svg.png)
-
-*Image by Glosser.ca, licensed under the [Creative Commons Attribution-Share Alike 3.0 Unported license](https://creativecommons.org/licenses/by-sa/3.0/deed.en).*
